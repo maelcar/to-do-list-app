@@ -10,10 +10,6 @@ Application for task organization. Technologies I have used: JavaScript, HTML, C
 * [Portfolio web]()
 * [Linkedin]()
 
-## View App online
-[To-Do List App](https://maelcar.github.io/to-do-list-app/)
-
-
 
 ## Install
 This App doesn't require installation, click on index.html
