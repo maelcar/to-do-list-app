@@ -7,8 +7,8 @@ Application for task organization. Technologies I have used: JavaScript, HTML, C
 ## Autor
 **Manuel Elías Rey Álvarez (@maelcar)**
 
-* [Portfolio web]()
-* [Linkedin]()
+* [Portfolio web](https://www.maelcar.com)
+* [Linkedin](https://www.linkedin.com/in/maelcar)
 
 
 ## Install
